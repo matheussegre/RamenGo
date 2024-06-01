@@ -1,0 +1,11 @@
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\bin\Debug\net8.0\RamenGo.Domain.deps.json
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\bin\Debug\net8.0\RamenGo.Domain.dll
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\bin\Debug\net8.0\RamenGo.Domain.pdb
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\obj\Debug\net8.0\RamenGo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\obj\Debug\net8.0\RamenGo.Domain.AssemblyInfoInputs.cache
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\obj\Debug\net8.0\RamenGo.Domain.AssemblyInfo.cs
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\obj\Debug\net8.0\RamenGo.Domain.csproj.CoreCompileInputs.cache
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\obj\Debug\net8.0\RamenGo.Domain.dll
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\obj\Debug\net8.0\refint\RamenGo.Domain.dll
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\obj\Debug\net8.0\RamenGo.Domain.pdb
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Domain\obj\Debug\net8.0\ref\RamenGo.Domain.dll

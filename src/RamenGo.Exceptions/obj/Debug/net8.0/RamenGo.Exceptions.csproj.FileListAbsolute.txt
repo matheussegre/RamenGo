@@ -1,0 +1,11 @@
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\bin\Debug\net8.0\RamenGo.Exceptions.deps.json
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\bin\Debug\net8.0\RamenGo.Exceptions.dll
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\bin\Debug\net8.0\RamenGo.Exceptions.pdb
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\obj\Debug\net8.0\RamenGo.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\obj\Debug\net8.0\RamenGo.Exceptions.AssemblyInfoInputs.cache
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\obj\Debug\net8.0\RamenGo.Exceptions.AssemblyInfo.cs
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\obj\Debug\net8.0\RamenGo.Exceptions.csproj.CoreCompileInputs.cache
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\obj\Debug\net8.0\RamenGo.Exceptions.dll
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\obj\Debug\net8.0\refint\RamenGo.Exceptions.dll
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\obj\Debug\net8.0\RamenGo.Exceptions.pdb
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Exceptions\obj\Debug\net8.0\ref\RamenGo.Exceptions.dll

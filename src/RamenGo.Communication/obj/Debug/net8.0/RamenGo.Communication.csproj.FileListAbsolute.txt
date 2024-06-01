@@ -1,0 +1,11 @@
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\bin\Debug\net8.0\RamenGo.Communication.deps.json
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\bin\Debug\net8.0\RamenGo.Communication.dll
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\bin\Debug\net8.0\RamenGo.Communication.pdb
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\obj\Debug\net8.0\RamenGo.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\obj\Debug\net8.0\RamenGo.Communication.AssemblyInfoInputs.cache
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\obj\Debug\net8.0\RamenGo.Communication.AssemblyInfo.cs
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\obj\Debug\net8.0\RamenGo.Communication.csproj.CoreCompileInputs.cache
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\obj\Debug\net8.0\RamenGo.Communication.dll
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\obj\Debug\net8.0\refint\RamenGo.Communication.dll
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\obj\Debug\net8.0\RamenGo.Communication.pdb
+D:\Cursos\Testes Tecnicos\RedVentures\RamenGo\src\RamenGo.Communication\obj\Debug\net8.0\ref\RamenGo.Communication.dll

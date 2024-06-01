@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Application\\RamenGo.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Application\\RamenGo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Application\\RamenGo.Application.csproj",
+        "projectName": "RamenGo.Application",
+        "projectPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Application\\RamenGo.Application.csproj",
+        "packagesPath": "C:\\Users\\Matheus Segre\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VSCommunity\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus Segre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Communication\\RamenGo.Communication.csproj": {
+                "projectPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Communication\\RamenGo.Communication.csproj"
+              },
+              "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Domain\\RamenGo.Domain.csproj": {
+                "projectPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Domain\\RamenGo.Domain.csproj"
+              },
+              "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Exceptions\\RamenGo.Exceptions.csproj": {
+                "projectPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Exceptions\\RamenGo.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Communication\\RamenGo.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Communication\\RamenGo.Communication.csproj",
+        "projectName": "RamenGo.Communication",
+        "projectPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Communication\\RamenGo.Communication.csproj",
+        "packagesPath": "C:\\Users\\Matheus Segre\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VSCommunity\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus Segre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Domain\\RamenGo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Domain\\RamenGo.Domain.csproj",
+        "projectName": "RamenGo.Domain",
+        "projectPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Domain\\RamenGo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Matheus Segre\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VSCommunity\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus Segre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Exceptions\\RamenGo.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Exceptions\\RamenGo.Exceptions.csproj",
+        "projectName": "RamenGo.Exceptions",
+        "projectPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Exceptions\\RamenGo.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\Matheus Segre\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos\\Testes Tecnicos\\RedVentures\\RamenGo\\src\\RamenGo.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VSCommunity\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus Segre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RamenGo.Application/1.0.0": {
+        "dependencies": {
+          "RamenGo.Communication": "1.0.0",
+          "RamenGo.Domain": "1.0.0",
+          "RamenGo.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "RamenGo.Application.dll": {}
+        }
+      },
+      "RamenGo.Communication/1.0.0": {
+        "runtime": {
+          "RamenGo.Communication.dll": {}
+        }
+      },
+      "RamenGo.Domain/1.0.0": {
+        "runtime": {
+          "RamenGo.Domain.dll": {}
+        }
+      },
+      "RamenGo.Exceptions/1.0.0": {
+        "runtime": {
+          "RamenGo.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RamenGo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RamenGo.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RamenGo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RamenGo.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

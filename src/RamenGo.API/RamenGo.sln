@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RamenGo.API", "RamenGo.API.csproj", "{0E032D81-003B-492E-B09A-B5D52DD0E7FB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1C04D22B-F333-4BF2-8921-CBA687BA6069} = {1C04D22B-F333-4BF2-8921-CBA687BA6069}
+		{CE3BB678-512B-4DC9-829A-DC2ACC3C2991} = {CE3BB678-512B-4DC9-829A-DC2ACC3C2991}
+		{CF46895A-D10C-467C-B618-EB82EFD45BEC} = {CF46895A-D10C-467C-B618-EB82EFD45BEC}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2012E091-3B8B-4E53-B82A-D06A8635C2C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RamenGo.Exceptions", "..\RamenGo.Exceptions\RamenGo.Exceptions.csproj", "{1C04D22B-F333-4BF2-8921-CBA687BA6069}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RamenGo.Application", "..\RamenGo.Application\RamenGo.Application.csproj", "{CF46895A-D10C-467C-B618-EB82EFD45BEC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1C04D22B-F333-4BF2-8921-CBA687BA6069} = {1C04D22B-F333-4BF2-8921-CBA687BA6069}
+		{CE3BB678-512B-4DC9-829A-DC2ACC3C2991} = {CE3BB678-512B-4DC9-829A-DC2ACC3C2991}
+		{ED3AE7A5-7CC6-4733-BAB0-89A422C9A76D} = {ED3AE7A5-7CC6-4733-BAB0-89A422C9A76D}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RamenGo.Communication", "..\RamenGo.Communication\RamenGo.Communication.csproj", "{CE3BB678-512B-4DC9-829A-DC2ACC3C2991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamenGo.Domain", "..\RamenGo.Domain\RamenGo.Domain.csproj", "{ED3AE7A5-7CC6-4733-BAB0-89A422C9A76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E032D81-003B-492E-B09A-B5D52DD0E7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E032D81-003B-492E-B09A-B5D52DD0E7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E032D81-003B-492E-B09A-B5D52DD0E7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E032D81-003B-492E-B09A-B5D52DD0E7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C04D22B-F333-4BF2-8921-CBA687BA6069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C04D22B-F333-4BF2-8921-CBA687BA6069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C04D22B-F333-4BF2-8921-CBA687BA6069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C04D22B-F333-4BF2-8921-CBA687BA6069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF46895A-D10C-467C-B618-EB82EFD45BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF46895A-D10C-467C-B618-EB82EFD45BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF46895A-D10C-467C-B618-EB82EFD45BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF46895A-D10C-467C-B618-EB82EFD45BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3BB678-512B-4DC9-829A-DC2ACC3C2991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3BB678-512B-4DC9-829A-DC2ACC3C2991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3BB678-512B-4DC9-829A-DC2ACC3C2991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3BB678-512B-4DC9-829A-DC2ACC3C2991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3AE7A5-7CC6-4733-BAB0-89A422C9A76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3AE7A5-7CC6-4733-BAB0-89A422C9A76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3AE7A5-7CC6-4733-BAB0-89A422C9A76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3AE7A5-7CC6-4733-BAB0-89A422C9A76D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E032D81-003B-492E-B09A-B5D52DD0E7FB} = {2012E091-3B8B-4E53-B82A-D06A8635C2C6}
+		{1C04D22B-F333-4BF2-8921-CBA687BA6069} = {2012E091-3B8B-4E53-B82A-D06A8635C2C6}
+		{CF46895A-D10C-467C-B618-EB82EFD45BEC} = {2012E091-3B8B-4E53-B82A-D06A8635C2C6}
+		{CE3BB678-512B-4DC9-829A-DC2ACC3C2991} = {2012E091-3B8B-4E53-B82A-D06A8635C2C6}
+		{ED3AE7A5-7CC6-4733-BAB0-89A422C9A76D} = {2012E091-3B8B-4E53-B82A-D06A8635C2C6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCA6BC20-77D8-4AF0-A871-C9CC2A2321CF}
+	EndGlobalSection
+EndGlobal
